@@ -1,0 +1,12 @@
+{
+  "author": "Drew Henrie",
+  "name": "CS360_Lab6_RESTfulCities",
+  "version": "0.0.1",
+  "description": "Lab 6 of CS360",
+  "main": "http_server_static",
+  "dependencies": {},
+  "engines":
+  {
+    "node": "*"
+  }
+}
